@@ -9,3 +9,6 @@ pip install -r requirements.txt
 ```bash
 steamlit run mps.py
 ```
+---
+## **Screenshots**
+![Implementation](https://github.com/[RahulSangubotla]/[MPS]/blob/[main]/sample1.jpg?raw=true)
