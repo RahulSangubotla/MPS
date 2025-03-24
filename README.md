@@ -11,4 +11,4 @@ steamlit run mps.py
 ```
 ---
 ## **Screenshots**
-![Implementation](https://github.com/[RahulSangubotla]/[MPS]/blob/[main]/sample1.png?raw=true)
+![Implementation](https://github.com/RahulSangubotla/MPS/blob/main/sample1.png?raw=true)
