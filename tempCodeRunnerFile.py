@@ -1,0 +1,1 @@
+data\Devanagari/train.txt
